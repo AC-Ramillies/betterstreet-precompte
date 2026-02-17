@@ -1,4 +1,4 @@
-# BetterStreet – Extraction planning précompte (Commune de Ramillies)
+# BetterStreet – Extraction planning précompte
 
 Outil interne développé par le Service Gouvernance Numerique de la Commune de Ramillies.
 
