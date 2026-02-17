@@ -1,5 +1,7 @@
 # BetterStreet – Extraction planning précompte
 
+![Réalisé par Commune de Ramillies](https://img.shields.io/badge/Réalisé%20par-Commune%20de%20Ramillies-005A9C?style=flat&logo=github&logoColor=white)
+
 Outil interne développé par le Service Gouvernance Numerique de la Commune de Ramillies.
 
 Ce script Python permet de transformer un export CSV issu de BetterStreet (Inforius) en un fichier Excel structuré et exploitable pour le traitement du précompte et l’analyse du planning du Service Travaux.
