@@ -23,16 +23,16 @@ Ce script a été développé afin de :
 
 ## Fonctionnalités principales
 
-### ✔ Reconstruction des enregistrements
+### Reconstruction des enregistrements
 Reconstitution correcte des interventions même lorsque l’export CSV est imparfait.
 
-### ✔ Filtrage par année
+### Filtrage par année
 Filtrage automatique des interventions selon l’année cible (ex. 2025).
 
-### ✔ Correction horaire encadrée
+### Correction horaire encadrée
 Détection des cas où l’heure de fin est inférieure à l’heure de début et application d’une correction +12h avec traçabilité.
 
-### ✔ Détection d’anomalies
+### Détection d’anomalies
 Création d’un onglet "Anomalies" reprenant notamment :
 
 - Début manquant
@@ -41,7 +41,7 @@ Création d’un onglet "Anomalies" reprenant notamment :
 - Corrections horaires appliquées
 - Erreurs de parsing
 
-### ✔ Mise en forme Excel
+### Mise en forme Excel
 - Tri chronologique
 - Surlignage des cas à vérifier
 - Format compatible avec le modèle précompte communal
